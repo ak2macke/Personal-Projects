@@ -1,0 +1,18 @@
+e:\libraries\documents\visual studio 2017\Projects\CapsLockIndicator\CapsLockIndicator\bin\Debug\CapsLockIndicator.exe.config
+e:\libraries\documents\visual studio 2017\Projects\CapsLockIndicator\CapsLockIndicator\bin\Debug\CapsLockIndicator.exe
+e:\libraries\documents\visual studio 2017\Projects\CapsLockIndicator\CapsLockIndicator\bin\Debug\CapsLockIndicator.pdb
+e:\libraries\documents\visual studio 2017\Projects\CapsLockIndicator\CapsLockIndicator\obj\Debug\CapsLockIndicator.csprojResolveAssemblyReference.cache
+e:\libraries\documents\visual studio 2017\Projects\CapsLockIndicator\CapsLockIndicator\obj\Debug\CapsLockIndicator.Form1.resources
+e:\libraries\documents\visual studio 2017\Projects\CapsLockIndicator\CapsLockIndicator\obj\Debug\CapsLockIndicator.Properties.Resources.resources
+e:\libraries\documents\visual studio 2017\Projects\CapsLockIndicator\CapsLockIndicator\obj\Debug\CapsLockIndicator.csproj.GenerateResource.Cache
+e:\libraries\documents\visual studio 2017\Projects\CapsLockIndicator\CapsLockIndicator\obj\Debug\CapsLockIndicator.exe
+e:\libraries\documents\visual studio 2017\Projects\CapsLockIndicator\CapsLockIndicator\obj\Debug\CapsLockIndicator.pdb
+E:\git\Personal-Projects\C#\CapsLockIndicator\CapsLockIndicator\bin\Debug\CapsLockIndicator.exe.config
+E:\git\Personal-Projects\C#\CapsLockIndicator\CapsLockIndicator\bin\Debug\CapsLockIndicator.exe
+E:\git\Personal-Projects\C#\CapsLockIndicator\CapsLockIndicator\bin\Debug\CapsLockIndicator.pdb
+E:\git\Personal-Projects\C#\CapsLockIndicator\CapsLockIndicator\obj\Debug\CapsLockIndicator.csprojResolveAssemblyReference.cache
+E:\git\Personal-Projects\C#\CapsLockIndicator\CapsLockIndicator\obj\Debug\CapsLockIndicator.Form1.resources
+E:\git\Personal-Projects\C#\CapsLockIndicator\CapsLockIndicator\obj\Debug\CapsLockIndicator.Properties.Resources.resources
+E:\git\Personal-Projects\C#\CapsLockIndicator\CapsLockIndicator\obj\Debug\CapsLockIndicator.csproj.GenerateResource.Cache
+E:\git\Personal-Projects\C#\CapsLockIndicator\CapsLockIndicator\obj\Debug\CapsLockIndicator.exe
+E:\git\Personal-Projects\C#\CapsLockIndicator\CapsLockIndicator\obj\Debug\CapsLockIndicator.pdb
