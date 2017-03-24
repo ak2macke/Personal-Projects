@@ -1,0 +1,9 @@
+E:\git\Personal-Projects\C#\CapsLockIndicator\CapsLockIndicator\bin\Release\CapsLockIndicator.exe.config
+E:\git\Personal-Projects\C#\CapsLockIndicator\CapsLockIndicator\bin\Release\CapsLockIndicator.exe
+E:\git\Personal-Projects\C#\CapsLockIndicator\CapsLockIndicator\bin\Release\CapsLockIndicator.pdb
+E:\git\Personal-Projects\C#\CapsLockIndicator\CapsLockIndicator\obj\Release\CapsLockIndicator.Form1.resources
+E:\git\Personal-Projects\C#\CapsLockIndicator\CapsLockIndicator\obj\Release\CapsLockIndicator.Properties.Resources.resources
+E:\git\Personal-Projects\C#\CapsLockIndicator\CapsLockIndicator\obj\Release\CapsLockIndicator.csproj.GenerateResource.Cache
+E:\git\Personal-Projects\C#\CapsLockIndicator\CapsLockIndicator\obj\Release\CapsLockIndicator.exe
+E:\git\Personal-Projects\C#\CapsLockIndicator\CapsLockIndicator\obj\Release\CapsLockIndicator.pdb
+E:\git\Personal-Projects\C#\CapsLockIndicator\CapsLockIndicator\obj\Release\CapsLockIndicator.csprojResolveAssemblyReference.cache
